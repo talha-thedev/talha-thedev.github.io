@@ -1,0 +1,13 @@
+@font-face {
+        font-family:Fira Sans ;
+        src: url(fonts/FiraSans-Regular.ttf) format(ttf);
+}
+
+.whiter {
+        align-content: center;
+        font-family: 'Fira Sans', sans-serif;
+        color: white;
+        padding: 10px;
+        border-radius: 5px;
+        text-align: center;
+}
